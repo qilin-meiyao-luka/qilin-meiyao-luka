@@ -120,17 +120,21 @@ Hi Cqilin! You&#39;ve successfully authenticated, but GITEE.COM does not provide
 </code></pre>
 </li>
 </ul>
-<p>Administrator@SKY-20160609AOR MINGW64 ~<br>$ ssh -T <a href="mailto:&#103;&#x69;&#x74;&#64;&#103;&#x69;&#x74;&#104;&#x75;&#x62;&#x2e;&#99;&#111;&#x6d;">&#103;&#x69;&#x74;&#64;&#103;&#x69;&#x74;&#104;&#x75;&#x62;&#x2e;&#99;&#111;&#x6d;</a><br>Hi Cqilin! You’ve successfully authenticated, but GitHub does not provide shell access.</p>
-<p>Administrator@SKY-20160609AOR MINGW64 ~<br>$ ssh -T <a href="mailto:&#103;&#x69;&#x74;&#64;&#103;&#x69;&#x74;&#104;&#117;&#98;&#95;&#49;&#x2e;&#x63;&#x6f;&#x6d;">&#103;&#x69;&#x74;&#64;&#103;&#x69;&#x74;&#104;&#117;&#98;&#95;&#49;&#x2e;&#x63;&#x6f;&#x6d;</a><br>Hi qilin-meiyao-luka! You’ve successfully authenticated, but GitHub does not provide shell access.</p>
+<p>Administrator@SKY-20160609AOR MINGW64 ~<br>$ ssh -T <a href="mailto:&#x67;&#105;&#x74;&#64;&#x67;&#x69;&#116;&#x68;&#x75;&#98;&#46;&#99;&#111;&#109;">&#x67;&#105;&#x74;&#64;&#x67;&#x69;&#116;&#x68;&#x75;&#98;&#46;&#99;&#111;&#109;</a><br>Hi Cqilin! You’ve successfully authenticated, but GitHub does not provide shell access.</p>
+<p>Administrator@SKY-20160609AOR MINGW64 ~<br>$ ssh -T <a href="mailto:&#x67;&#105;&#116;&#64;&#103;&#x69;&#x74;&#104;&#x75;&#x62;&#x5f;&#49;&#x2e;&#x63;&#x6f;&#109;">&#x67;&#105;&#116;&#64;&#103;&#x69;&#x74;&#104;&#x75;&#x62;&#x5f;&#49;&#x2e;&#x63;&#x6f;&#109;</a><br>Hi qilin-meiyao-luka! You’ve successfully authenticated, but GitHub does not provide shell access.</p>
 <p>Administrator@SKY-20160609AOR MINGW64 ~<br>$</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">成功！</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<p>Administrator@SKY-20160609AOR MINGW64 ~<br>$ ssh -T <a href="mailto:&#103;&#105;&#x74;&#64;&#x67;&#105;&#116;&#104;&#x75;&#x62;&#95;&#x31;&#46;&#99;&#111;&#x6d;">&#103;&#105;&#x74;&#64;&#x67;&#105;&#116;&#104;&#x75;&#x62;&#95;&#x31;&#46;&#99;&#111;&#x6d;</a><br>Hi qilin-meiyao-luka! You’ve successfully authenticated, but GitHub does not provide shell access.</p>
+<p>Administrator@SKY-20160609AOR MINGW64 ~<br>$ ssh -T <a href="mailto:&#x67;&#105;&#116;&#64;&#103;&#105;&#116;&#104;&#x75;&#98;&#x5f;&#49;&#x2e;&#99;&#111;&#109;">&#x67;&#105;&#116;&#64;&#103;&#105;&#116;&#104;&#x75;&#98;&#x5f;&#49;&#x2e;&#99;&#111;&#109;</a><br>Hi qilin-meiyao-luka! You’ve successfully authenticated, but GitHub does not provide shell access.</p>
 <figure class="highlight abnf"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">成功获取到第二个github账号：qilin-meiyao-luka<span class="comment">;</span></span><br><span class="line"></span><br><span class="line"><span class="number">3.3</span>  注意远程仓库的url也要改：</span><br><span class="line"></span><br></pre></td></tr></table></figure>
 <p>deploy:<br>  type: git<br>  #repo: <a href="https://gitee.com/qilinclolik/qilinclolik.git">https://gitee.com/qilinclolik/qilinclolik.git</a><br>  repo:</p>
 <pre><code>    github: https://github_1.com/qilin-meiyao-luka/qilin-meiyao-luka.git</code></pre>
 <h1 id="example-https-github-com-hexojs-hexojs-github-io"><a href="#example-https-github-com-hexojs-hexojs-github-io" class="headerlink" title="example, https://github.com/hexojs/hexojs.github.io"></a>example, <a href="https://github.com/hexojs/hexojs.github.io">https://github.com/hexojs/hexojs.github.io</a></h1><p>  branch: master</p>
+<figure class="highlight abnf"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">也要改成github_1 <span class="comment">;</span></span><br><span class="line"></span><br><span class="line">改了就报错；</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
 <pre><code>
-也要改成github_1 ;
+试试不改能不能行；（改是文章里面说的，但既然报错，只有不改试试）
+
+
 </code></pre>
 </li>
 </ul>
