@@ -1,58 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>2-博客中遇到的问题</title>
-    <url>/blog/2-blog_problem/</url>
-    <content><![CDATA[<h3 id="1-密匙已经被使用；"><a href="#1-密匙已经被使用；" class="headerlink" title="1. 密匙已经被使用；"></a>1. 密匙已经被使用；</h3><ol>
-<li><p>​                                                                                                                                                                        2-blog_problem.md                                                                                                                            也许在github，一个账户正在使用了一个ssh密匙后，那个ssh就会被记录。</p>
-<p>而gitee那边不冲突；</p>
-<p>一个ssh密匙，分别可以在github与gitee都使用；</p>
-<a id="more"></a>
-
-<p>但一个密匙应该不能在两个github号上用；</p>
-</li>
-<li><p>只有这样假设了。去追求是否正确就不用了。</p>
-</li>
-<li><p>第二个github号：qilin-meiyao-luka，用的是3293-ssh密匙</p>
-<p>唯一的gitee号也是这个密匙；</p>
-<p>大号github，用的7920ssh密匙；</p>
-<p>2020-8-7 18:35:45</p>
-<hr>
-</li>
-</ol>
-<h3 id="2-报错–not-found：git；"><a href="#2-报错–not-found：git；" class="headerlink" title="2. 报错–not found：git；"></a>2. 报错–not found：git；</h3><p><img src="https://i.loli.net/2020/08/07/rC3tXaVGJubNLBo.png"></p>
-<p>那手动创建一个试试；</p>
-<p><code>npm install hexo-deployer-git --save</code></p>
-<p>不对，这是个插件，单纯的没安装这个插件。没有这个，应该就不能生成本地静态文件吧；</p>
-]]></content>
-      <categories>
-        <category>blog</category>
-      </categories>
-      <tags>
-        <tag>blog</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/uncategorized/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<a id="more"></a>
-
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>1-(1~20)</title>
     <url>/footjob-femdom-lolicon/1/</url>
     <content><![CDATA[<h2 id="0-自言"><a href="#0-自言" class="headerlink" title="0. 自言"></a>0. 自言</h2><ol>
@@ -102,5 +50,112 @@
       <tags>
         <tag>all</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>2-博客中遇到的问题</title>
+    <url>/blog/2-blog_problem/</url>
+    <content><![CDATA[<h3 id="1-密匙已经被使用；"><a href="#1-密匙已经被使用；" class="headerlink" title="1. 密匙已经被使用；"></a>1. 密匙已经被使用；</h3><ol>
+<li><p>​                                                                                                                                                                        2-blog_problem.md                                                                                                                            也许在github，一个账户正在使用了一个ssh密匙后，那个ssh就会被记录。</p>
+<p>而gitee那边不冲突；</p>
+<p>一个ssh密匙，分别可以在github与gitee都使用；</p>
+<a id="more"></a>
+
+<p>但一个密匙应该不能在两个github号上用；</p>
+</li>
+<li><p>只有这样假设了。去追求是否正确就不用了。</p>
+</li>
+<li><p>第二个github号：qilin-meiyao-luka，用的是3293-ssh密匙</p>
+<p>唯一的gitee号也是这个密匙；</p>
+<p>大号github，用的7920ssh密匙；</p>
+<p>2020-8-7 18:35:45</p>
+<hr>
+</li>
+</ol>
+<h3 id="2-报错–not-found：git；"><a href="#2-报错–not-found：git；" class="headerlink" title="2. 报错–not found：git；"></a>2. 报错–not found：git；</h3><p><img src="https://i.loli.net/2020/08/07/rC3tXaVGJubNLBo.png"></p>
+<p>那手动创建一个试试；</p>
+<p><code>npm install hexo-deployer-git --save</code></p>
+<p>不对，这是个插件，单纯的没安装这个插件。没有这个，应该就不能生成本地静态文件吧；</p>
+<hr>
+<h3 id="3-hexo-d-报错；"><a href="#3-hexo-d-报错；" class="headerlink" title="3. hexo d 报错；"></a>3. hexo d 报错；</h3><p>报错内容：</p>
+<figure class="highlight http"><table><tr><td class="code"><pre><span class="line"><span class="attribute">ERROR</span>: Permission to qilin-meiyao-luka/qilin-meiyao-luka.git denied to Cqilin.</span><br><span class="line"><span class="attribute">fatal</span>: Could not read from remote repository.</span><br><span class="line"></span><br><span class="line">Please make sure you have the correct access rights</span><br><span class="line">and the repository exists.</span><br><span class="line">FATAL &#123;</span><br><span class="line">  err: Error: Spawn failed</span><br><span class="line">      at ChildProcess.&lt;anonymous&gt; (G:\1-sanciyuan\11-qilin_meiyao_luka\node_modu</span><br><span class="line"><span class="attribute">les\hexo-deployer-git\node_modules\hexo-util\lib\spawn.js:51:21)</span></span><br><span class="line">      at ChildProcess.emit (events.js:210:5)</span><br><span class="line">      at ChildProcess.cp.emit (G:\1-sanciyuan\11-qilin_meiyao_luka\node_modules\</span><br><span class="line"><span class="attribute">cross-spawn\lib\enoent.js:34:29)</span></span><br><span class="line">      at Process.ChildProcess._handle.onexit (internal/child_process.js:272:12)</span><br><span class="line">&#123;</span><br><span class="line">    code: 128</span><br><span class="line">  &#125;</span><br><span class="line">&#125; Something&#x27;s wrong. Maybe you can find the solution here: %s https://hexo.io/do</span><br><span class="line"><span class="attribute">cs/troubleshooting.html</span></span><br></pre></td></tr></table></figure>
+
+<br />
+
+<p>貌似是找不到仓库地址；不弄了，累了；2020-8-7 19:18:14</p>
+<p>3.1 百度，多个ssh对应不同的github账号；</p>
+<ul>
+<li><p>虽然gitee用的3293-ssh，而不是大号github用的；</p>
+</li>
+<li><p>但在config里面有配置。</p>
+<figure class="highlight properties"><table><tr><td class="code"><pre><span class="line"><span class="comment"># gitee</span></span><br><span class="line"><span class="attr">Host</span> <span class="string">gitee.com</span></span><br><span class="line"><span class="attr">HostName</span> <span class="string">gitee.com</span></span><br><span class="line"><span class="attr">PreferredAuthentications</span> <span class="string">publickey</span></span><br><span class="line"><span class="attr">IdentityFile</span> <span class="string">~/.ssh/id_rsa</span></span><br><span class="line"><span class="comment"># github</span></span><br><span class="line"><span class="attr">Host</span> <span class="string">github.com</span></span><br><span class="line"><span class="attr">HostName</span> <span class="string">github.com</span></span><br><span class="line"><span class="attr">PreferredAuthentications</span> <span class="string">publickey</span></span><br><span class="line"><span class="attr">IdentityFile</span> <span class="string">C:/Users/Administrator/.ssh/id_rsa_gitee</span></span><br></pre></td></tr></table></figure>
+
+<p>根据网上资料所说：</p>
+<ul>
+<li><pre><code>git@github.com:name/project.git (这是原来直接复制过来的的url)
+这时候要改一下:
+git@github_1.com:name/project.git 
+这个github_1就是之前在config配置文件里修改的host
+&lt;!--hexoPostRenderEscape:&lt;figure class=&quot;highlight http&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;+ 因为我配置了config，所以第二个github账号也用到了第一个github账号的ssh，从而第二个号没有权限；&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;+ 假如我这么设置试试：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;:hexoPostRenderEscape--&gt;
+# gitee
+Host gitee.com
+HostName gitee.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa
+
+# github
+Host github.com
+HostName github.com
+PreferredAuthentications publickey
+IdentityFile C:/Users/Administrator/.ssh/id_rsa_gitee
+
+# github
+Host github_1.com
+HostName github.com
+PreferredAuthentications publickey
+IdentityFile C:/Users/Administrator/.ssh/id_rsa
+&lt;!--hexoPostRenderEscape:&lt;figure class=&quot;highlight angelscript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  虽然第一个gitee与最下面的github用的同一个ssh。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  但万一不冲突呢？先实验试试；&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;number&quot;&gt;3.2&lt;/span&gt; 在git bash里面验证试试：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;:hexoPostRenderEscape--&gt;
+Administrator@SKY-20160609AOR MINGW64 ~
+$ ssh -T git@gitee.com
+Hi Cqilin! You&#39;ve successfully authenticated, but GITEE.COM does not provide shell access.
+</code></pre>
+</li>
+</ul>
+<p>Administrator@SKY-20160609AOR MINGW64 ~<br>$ ssh -T <a href="mailto:&#x67;&#105;&#x74;&#64;&#103;&#105;&#116;&#104;&#117;&#98;&#x2e;&#x63;&#x6f;&#x6d;">&#x67;&#105;&#x74;&#64;&#103;&#105;&#116;&#104;&#117;&#98;&#x2e;&#x63;&#x6f;&#x6d;</a><br>Hi Cqilin! You’ve successfully authenticated, but GitHub does not provide shell access.</p>
+<p>Administrator@SKY-20160609AOR MINGW64 ~<br>$ ssh -T <a href="mailto:&#103;&#105;&#x74;&#x40;&#103;&#x69;&#116;&#x68;&#117;&#98;&#x5f;&#x31;&#46;&#x63;&#111;&#x6d;">&#103;&#105;&#x74;&#x40;&#103;&#x69;&#116;&#x68;&#117;&#98;&#x5f;&#x31;&#46;&#x63;&#111;&#x6d;</a><br>Hi qilin-meiyao-luka! You’ve successfully authenticated, but GitHub does not provide shell access.</p>
+<p>Administrator@SKY-20160609AOR MINGW64 ~<br>$</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">成功！</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p>Administrator@SKY-20160609AOR MINGW64 ~<br>$ ssh -T <a href="mailto:&#x67;&#105;&#116;&#64;&#103;&#x69;&#116;&#x68;&#x75;&#x62;&#x5f;&#x31;&#x2e;&#99;&#x6f;&#109;">&#x67;&#105;&#116;&#64;&#103;&#x69;&#116;&#x68;&#x75;&#x62;&#x5f;&#x31;&#x2e;&#99;&#x6f;&#109;</a><br>Hi qilin-meiyao-luka! You’ve successfully authenticated, but GitHub does not provide shell access.</p>
+<pre><code>
+成功获取到第二个github账号：qilin-meiyao-luka;
+</code></pre>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>blog</category>
+      </categories>
+      <tags>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/uncategorized/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<a id="more"></a>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
   </entry>
 </search>
