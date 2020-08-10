@@ -55,14 +55,12 @@
     <title>2-博客中遇到的问题</title>
     <url>/blog/2-blog_problem/</url>
     <content><![CDATA[<h3 id="1-密匙已经被使用；"><a href="#1-密匙已经被使用；" class="headerlink" title="1. 密匙已经被使用；"></a>1. 密匙已经被使用；</h3><ol>
-<li><p>​                                                                                                                                                                        2-blog_problem.md                                                                                                                            也许在github，一个账户正在使用了一个ssh密匙后，那个ssh就会被记录。</p>
-<p>而gitee那边不冲突；</p>
-<p>一个ssh密匙，分别可以在github与gitee都使用；</p>
-<a id="more"></a>
-
+<li><p>也许在github，一个账户正在使用了一个ssh密匙后，那个ssh就会被记录。</p>
+<p>而gitee那边不冲突；一个ssh密匙，分别可以在github与gitee都使用；</p>
 <p>但一个密匙应该不能在两个github号上用；</p>
 </li>
 <li><p>只有这样假设了。去追求是否正确就不用了。</p>
+<a id="more"></a>
 </li>
 <li><p>第二个github号：qilin-meiyao-luka，用的是3293-ssh密匙</p>
 <p>唯一的gitee号也是这个密匙；</p>
