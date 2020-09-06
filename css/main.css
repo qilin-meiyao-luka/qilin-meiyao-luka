@@ -182,7 +182,7 @@ body {
   background: var(--body-bg-color);
   color: var(--text-color);
   font-family: 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 1em;
+  font-size: 1.125em;
   line-height: 2;
   transition: all 0.2s ease-in-out;
 }
@@ -1719,9 +1719,6 @@ pre code {
 .back-to-top {
   font-size: 12px;
 }
-.back-to-top span {
-  display: none;
-}
 .back-to-top {
   bottom: -100px;
   box-sizing: border-box;
@@ -1734,7 +1731,7 @@ pre code {
   position: fixed;
   z-index: 1300;
   right: 30px;
-  width: 24px;
+  width: initial;
 }
 @media (max-width: 991px) {
   .back-to-top {
